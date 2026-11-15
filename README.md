@@ -2,12 +2,11 @@
 
 ## 📸 Photo Gallery – Demo
 
-<video src="https://github.com/user-attachments/assets/e94f03f0-e917-45d8-9e6d-3eba599adda9" controls></video>
+https://github.com/user-attachments/assets/e94f03f0-e917-45d8-9e6d-3eba599adda9
 
 ## 💬 ChatSpace – Demo
 
-<video src="https://github.com/user-attachments/assets/66215ae8-940b-431a-bfcb-52f7443cf320
-" controls></video>
+https://github.com/user-attachments/assets/c421c6ef-a097-4563-8c65-9901277bc202
 
 ## 📂 Projects
 
@@ -19,3 +18,8 @@
 **Asritha Asireddy**
 
 [GitHub Profile](https://github.com/Asritha123-coder)
+
+
+
+
+
